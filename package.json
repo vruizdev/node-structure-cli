@@ -1,11 +1,17 @@
 {
   "name": "node-structure-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Node Structure CLI is a powerful command-line tool designed to streamline the process of creating a robust project structure for your Node.js and Express applications.",
   "main": "src/main.js",
   "bin": "src/main.js",
+  "preferGlobal": true,
   "scripts": {
     "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vruizdev/node-structure-cli.git",
+    "homepage": "https://github.com/vruizdev/node-structure-cli.git"
   },
   "keywords": [
     "nodejs",
