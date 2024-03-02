@@ -2,22 +2,23 @@
 
 Node Structure CLI is a powerful command-line tool designed to streamline the process of creating a robust project structure for your Node.js and Express applications.
 
-### Authors
+## Authors
 
 - [@vruizdev](https://www.github.com/vruizdev)
 
-### Contributors
+## Contributors
 
 <a href="https://github.com/vruizdev/node-structure-cli/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=vruizdev/node-structure-cli" />
 </a>
 
-### Requirements
+## Requirements
 
 * Nodejs
 
-### Package Install
+## Installation 📖
 
+### Package Install
 
 > Install the package with your favorite package manager:
 
@@ -32,5 +33,7 @@ npm i node-structure-cli
 ```bash
 pnpm install node-structure-cli
 ```
+
+## Usage ⚙️
 
 ### Commands
